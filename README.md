@@ -1,4 +1,4 @@
-# LinearRegression
+# Linear Regression
 
 This is a simple Linear Regression that can be executed on **Octave** or **Matlab**.
 
